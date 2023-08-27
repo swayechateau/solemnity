@@ -2,23 +2,23 @@
 
 Solemnity is the name for a collection of microservices used across my applications.
 
-Single Sign On
+## Single Sign On
 
-https://sso.solemnity.icu
+* https://sso.solemnity.icu
 
-https://github.com/swayechateau/solemnity-sso
+* https://github.com/swayechateau/solemnity-sso
 
-Website Meta Data Grabber
+## Website Meta Data Grabber
 
-https://meta.solemnity.icu
+* https://meta.solemnity.icu
 
-https://github.com/swayechateau/solemnity-website-meta-grabber
+* https://github.com/swayechateau/solemnity-website-meta-grabber
 
 
-CDN / File Storage
+## CDN / File Storage
 
-https://file.solemnity.icu
+* https://file.solemnity.icu
 
-https://github.com/swayechateau/solemnity-fileserver
+* https://github.com/swayechateau/solemnity-fileserver
 
 
