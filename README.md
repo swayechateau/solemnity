@@ -12,7 +12,7 @@ Solemnity is the name for a collection of microservices used across my applicati
 
 * https://meta.solemnity.icu
 
-* https://github.com/swayechateau/solemnity-website-meta-grabber
+* https://github.com/swayechateau/solemnity-meta
 
 
 ## CDN / File Storage
