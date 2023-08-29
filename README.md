@@ -15,13 +15,17 @@ Solemnity is the name for a collection of microservices used across my applicati
 * https://github.com/swayechateau/solemnity-meta
 
 
-## CDN / File Storage
+## File Storage
+
+An Api for storing files locally (on server) or on a cloud provider (G Cloud, Aws S3 or Azure Blob Storage)
 
 * https://file.solemnity.icu
 
 * https://github.com/swayechateau/solemnity-fileserver
 
-## CDN / File Storage
+## Scripts
+
+A public way to access various scripts needed by mulitple projects and servers
 
 * https://scripts.solemnity.icu
 
