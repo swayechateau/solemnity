@@ -21,4 +21,8 @@ Solemnity is the name for a collection of microservices used across my applicati
 
 * https://github.com/swayechateau/solemnity-fileserver
 
+## CDN / File Storage
 
+* https://scripts.solemnity.icu
+
+* https://github.com/swayechateau/solemnity-scripts
