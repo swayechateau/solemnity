@@ -1,0 +1,15 @@
+[submodule "apps/sso"]
+	path = apps/sso
+	url = git@github.com:swayechateau/solemnity-sso.git
+[submodule "apps/meta"]
+	path = apps/meta
+	url = git@github.com:swayechateau/solemnity-meta.git
+[submodule "apps/fileserver"]
+	path = apps/fileserver
+	url = git@github.com:swayechateau/solemnity-fileserver.git
+[submodule "apps/scripts"]
+	path = apps/scripts
+	url = git@github.com:swayechateau/solemnity-scripts.git
+[submodule "apps/countries"]
+	path = apps/countries
+	url = https://github.com/swayechateau/solemnity-countries
