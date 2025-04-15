@@ -1,5 +1,5 @@
 # Use an official lightweight Python image as a base
-FROM python:slim-bullseye
+FROM docker.io/python:slim-bullseye
 
 # Set the working directory inside the container
 WORKDIR /app
